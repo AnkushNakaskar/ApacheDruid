@@ -6,3 +6,5 @@
     * active version is 27.0.0
     * run ```docker-compose -f distribution/docker/docker-compose.yml up ```
     * Once it is up and running , you can cross check the link : http://localhost:8888/unified-console.html
+   
+  * If you face any error related to port bind, you cna refer the terminal_output in repo
